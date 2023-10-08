@@ -1,0 +1,8 @@
+export {default as Navbar} from './Navbar/Navbar'
+export {default as Hero} from './Hero/Hero'
+export {default as Product} from './Product/Product'
+export {default as Gallery} from './Gallery/Gallery'
+export {default as Service} from './Service1/Service'
+export {default as Banar} from './Banar/Banar'
+export {default as Footer} from './Footer/Footer'
+export {default as LoginIn} from './LoginIn/LoginIn'

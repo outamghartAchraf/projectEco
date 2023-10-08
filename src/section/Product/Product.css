@@ -1,0 +1,18 @@
+/* .p-section{
+    margin: var(--margin-primary);
+    background-color: var(--color-dark);
+    width: 100%;
+ } */
+
+ .p-section{
+    padding-left:70px ;
+    padding-right: 70px;
+    background-color:white;
+    margin-top: 100px;
+
+  }
+
+  .c-section{
+    background-color: rgb(202, 199, 199);
+    color: white;
+  }

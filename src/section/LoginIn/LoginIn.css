@@ -1,0 +1,41 @@
+.container20 {
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.form1 {
+	background-color: #f2f2f2;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+.form1 h2 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.label1 {
+	display: block;
+	margin-bottom: 5px;
+}
+
+ .int1{
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: none;
+	border-radius: 5px;
+}
+
+.btn20 {
+	background-color: #4CAF50;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.btn20:hover{	background-color: #45a049;
+}

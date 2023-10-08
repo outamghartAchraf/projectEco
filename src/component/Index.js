@@ -1,0 +1,6 @@
+export {default as NavItem} from './NavItem/NavItem'
+export {default as Container} from './container/Container'
+export {default as SeTitle} from './SeTitle/SeTitle'
+export {default as Search} from './Search/Search'
+export {default as Category} from './Category/Category'
+export {default as CardP} from './CardP/CardP'

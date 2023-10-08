@@ -1,0 +1,20 @@
+.Hero{
+    background: url('../../assets/images/image1.jpg') center no-repeat;
+    background-size: cover;
+    text-align: left;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+ 
+    height: 100vh;
+    color: white;
+}
+
+.shop{
+    margin-top: 20px;
+}
+
+.title{
+    font-size: 60pt;
+}

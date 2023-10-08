@@ -1,0 +1,19 @@
+:root{
+
+  --color-dark:#27292a;
+  --color-light:#fff;
+  --color-primary:#bd0909;
+  --color-darkest:#1f2122;
+  --color-bg-body:var(--color-darkest);
+
+
+  --distance-primary:50px;
+  --padding-primary:var(--distance-primary);
+  --margin-primary:var(--distance-primary);
+  --border-raduis-primary:calc(var(--distance-primary)/2);
+  
+  
+  --font-weight-bold:900;
+  --font-weight-normal:400;
+
+}
